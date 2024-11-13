@@ -1,0 +1,225 @@
+{
+  "sell-car": [
+    {
+      "id": "3cbe",
+      "city": "Rajkot",
+      "make": "Tata",
+      "model": "Nexon",
+      "fuel": "Petrol",
+      "color": "#4c4343",
+      "km": "1500",
+      "owner": "Second owner",
+      "price": "11 Lakh",
+      "imgs": "https://imgd.aeplcdn.com/664x374/n/cw/ec/175993/kushaq-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+      "seller_uid": "7P5S930NZ5S8jNoveXRhWxHmMri2",
+      "buyer_uid": "7eu8Q2GI04ZlTOMdAPoa7HN1Z2x1",
+      "status": "sold"
+    },
+    {
+      "id": "5bfa",
+      "city": "Ahemdabad",
+      "make": "Tata",
+      "model": "Harrier",
+      "fuel": "Petrol",
+      "color": "#000000",
+      "km": "4000",
+      "owner": "First owner",
+      "price": "13 Lakh",
+      "imgs": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/1/versions/tata-harrier-2021-xz-plus-dark-edition1645784748224.jpg?q=80",
+      "seller_uid": "7P5S930NZ5S8jNoveXRhWxHmMri2",
+      "buyer_uid": "7eu8Q2GI04ZlTOMdAPoa7HN1Z2x1",
+      "status": "sold"
+    },
+    {
+      "id": "48a7",
+      "city": "Mumbai",
+      "make": "Honda",
+      "model": "Elevate",
+      "fuel": "Petrol",
+      "color": "#c91313",
+      "km": "1500",
+      "owner": "Third owner",
+      "price": "11 Lakh",
+      "imgs": "https://imgd-ct.aeplcdn.com/664x415/n/c1hbmbb_1688469.jpg?q=80",
+      "seller_uid": "7P5S930NZ5S8jNoveXRhWxHmMri2",
+      "buyer_uid": "7P5S930NZ5S8jNoveXRhWxHmMri2",
+      "status": "sold"
+    },
+    {
+      "id": "f924",
+      "city": "Baroda",
+      "make": "Hyundai",
+      "model": "Creta",
+      "fuel": "Diesel",
+      "color": "#582c2c",
+      "km": "2000",
+      "owner": "Four or more owners",
+      "price": "10 Lakh",
+      "imgs": "https://imgd.aeplcdn.com/370x208/n/oqevvab_1673975.jpg?q=80",
+      "seller_uid": "7P5S930NZ5S8jNoveXRhWxHmMri2",
+      "buyer_uid": "",
+      "status": "available"
+    },
+    {
+      "id": "7f98",
+      "city": "Ahemdabad",
+      "make": "Tata",
+      "model": "Nexon",
+      "fuel": "Petrol",
+      "color": "#000000",
+      "km": "1000",
+      "owner": "First owner",
+      "price": "11 Lakh",
+      "imgs": "https://imgd-ct.aeplcdn.com/1056x660/n/4x5alcb_1713653.jpg?q=80",
+      "seller_uid": "CWv9IjML58eTdz6akk08PRVX0Xg2",
+      "buyer_uid": "",
+      "status": "available"
+    }
+  ],
+  "users": [
+    {
+      "id": "2629",
+      "UserName": "Prerana",
+      "Email": "prerana@gmail.com",
+      "Password": "prerana1234",
+      "Role": "user",
+      "ProfileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "UID": "7eu8Q2GI04ZlTOMdAPoa7HN1Z2x1",
+      "IsBuyer": true,
+      "IsSeller": false
+    },
+    {
+      "id": "a131",
+      "UserName": "Janvi Parmar",
+      "Email": "janvi@gmail.com",
+      "Password": "janvi@123",
+      "Role": "user",
+      "ProfileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "UID": "CWv9IjML58eTdz6akk08PRVX0Xg2",
+      "IsBuyer": false,
+      "IsSeller": true
+    }
+  ],
+  "car-make": [
+    {
+      "id": "26d5",
+      "make": "Mercedes"
+    },
+    {
+      "id": "32d3",
+      "make": "MG"
+    },
+    {
+      "id": "5684",
+      "make": "Tata"
+    },
+    {
+      "id": "bc8a",
+      "make": "Maruti Suzuki"
+    },
+    {
+      "id": "17de",
+      "make": "Audi"
+    },
+    {
+      "id": "073e",
+      "make": "Jaguar"
+    },
+    {
+      "id": "fa73",
+      "make": "Hyundai"
+    },
+    {
+      "id": "ffc6",
+      "make": "Honda"
+    },
+    {
+      "id": "6a11",
+      "make": "Skoda"
+    }
+  ],
+  "car-model": [
+    {
+      "id": "069c",
+      "model": "Tiago",
+      "makeId": "5684"
+    },
+    {
+      "id": "f5e7",
+      "model": "Harrier",
+      "makeId": "5684"
+    },
+    {
+      "id": "90af",
+      "model": "Nexon",
+      "makeId": "5684"
+    },
+    {
+      "id": "a73b",
+      "model": "Creta",
+      "makeId": "fa73"
+    },
+    {
+      "id": "42aa",
+      "model": "Elevate",
+      "makeId": "ffc6"
+    },
+    {
+      "id": "f992",
+      "model": "Kushaq",
+      "makeId": "6a11"
+    }
+  ],
+  "locations": [
+    {
+      "id": "fbf5",
+      "city": "Rajkot"
+    },
+    {
+      "id": "f256",
+      "city": "Ahemdabad"
+    },
+    {
+      "id": "c44f",
+      "city": "Mumbai"
+    },
+    {
+      "id": "5e90",
+      "city": "Pune"
+    },
+    {
+      "id": "df58",
+      "city": "Baroda"
+    },
+    {
+      "id": "2835",
+      "city": "Surat"
+    }
+  ],
+  "contact-us": [
+    {
+      "id": "96b2",
+      "firstname": "Janvi",
+      "lastname": "Parmar",
+      "email": "janvi@gmail.com",
+      "phone": "9876543210",
+      "message": "please send car details"
+    },
+    {
+      "id": "b648",
+      "firstname": "Prerana",
+      "lastname": "Dave",
+      "email": "pd@gmail.com",
+      "phone": "1234567890",
+      "message": "hello\n"
+    },
+    {
+      "id": "5088",
+      "firstname": "abc",
+      "lastname": "abc",
+      "email": "abc@gmail.com",
+      "phone": "111111111111",
+      "message": "abc"
+    }
+  ]
+}
